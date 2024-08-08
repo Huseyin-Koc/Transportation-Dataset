@@ -1,0 +1,12 @@
+# Ignore SQL Server backup files
+*.bak
+*.trn
+*.ldf
+
+# Ignore SQL Server data files
+*.mdf
+*.ndf
+
+# Ignore Visual Studio SQL Server project files
+*.sqlproj
+*.sqlproj.user
